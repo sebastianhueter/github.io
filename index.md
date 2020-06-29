@@ -15,3 +15,4 @@ Padisha Imperator Shaddam IV:
 
 > Das Spice muss fliessen!
 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Dune_Movie_Arrakis.jpg/240px-Dune_Movie_Arrakis.jpg"/>

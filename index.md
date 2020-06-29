@@ -4,3 +4,11 @@ Der Wüstenplanet Arrakis - Die Heimat des Spice - Bewacht von den gigantischen 
 Die Navigatoren der Raumfahrergilde können mithilfe dieser Droge Visionen erfahren, welche Raum- und Zeit manipulieren.
 
 Das Spice muss fliessen!
+
+## Beteiligte Parteien
+* Atreides
+* Harkonnen
+* Fremen
+* Raumfahrergilde
+* Bene Gesserit
+* Imperator
